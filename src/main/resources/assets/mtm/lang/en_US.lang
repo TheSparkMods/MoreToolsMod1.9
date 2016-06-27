@@ -1,0 +1,24 @@
+item.dirt_ingot.name=Dirt Ingot
+item.dirtPickaxe.name=Dirt Pickaxe
+item.dirtSpade.name=Dirt Spade
+item.dirtSword.name=Dirt Sword
+item.dirtHoe.name=Dirt Hoe
+item.dirtAxe.name=Dirt Axe
+
+item.gravelPickaxe.name=Gravel Pickaxe
+item.gravelAxe.name=Gravel Axe
+item.gravelSpade.name=Gravel Spade
+item.gravelSword.name=Gravel Sword
+item.gravelHoe.name=Gravel Hoe
+
+item.sandPickaxe.name=Sand Pickaxe
+item.sandAxe.name=Sand Axe
+item.sandSpade.name=Sand Spade
+item.sandSword.name=Sand Sword
+item.sandHoe.name=Sand Hoe
+
+item.netherPickaxe.name=Nether Pickaxe
+item.netherAxe.name=Nether Axe
+item.netherSpade.name=Nether Spade
+item.netherSword.name=Nether Sword
+item.netherHoe.name=Nether Hoe
